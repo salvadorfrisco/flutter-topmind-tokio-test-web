@@ -82754,8 +82754,8 @@ if(a8)k=18
 else k=a9?22:28
 if(a8)j=12
 else j=a9?20:28
-if(a8)i=4
-else i=a9?8:12
+if(a8)i=1
+else i=a9?2:4
 if(a8)h=8
 else h=a9?10:12
 if(a8)g=11
@@ -82787,12 +82787,12 @@ a2.push(A.bA(a4,h,a4))
 a2.push(A.aqz(a3.f,a4,"Senha",!0,a3.gaeE()))
 a2.push(A.bA(a4,a8?10:16,a4))
 a2.push(A.kJ(A.b([new A.wM(a3.y,new A.akh(a3),new A.bi(new A.aki(),t.b),new A.cE(A.fz(12),B.q),a4),A.J_(A.bV("Lembrar Sempre",a4,a4,a4,A.c7(a4,a4,B.i,a4,a4,a4,a4,a4,a4,a4,a4,f,a4,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4)),new A.rF(1,B.mQ,A.adP(A.bV("Esqueceu a senha?",a4,a4,a4,A.c7(a4,a4,B.bQ,a4,B.hu,a4,a4,a4,a4,a4,a4,g,a4,a4,B.aI,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4),a3.gad1(),a4),a4)],d),B.a1,B.Y,B.al))
-a2.push(A.bA(a4,a8?18:32,a4))
+a2.push(A.bA(a4,a8?16:20,a4))
 a2=A.eu(a2,B.a1,B.Y,B.bO)
 a=A.iM(A.f5(a4,A.eu(A.b([new A.c0(new A.at(j,a0,j,a0),a1,a4),new A.c0(new A.at(j,i,j,i),new A.y6(a2,B.i8,a3.d),a4)],d),B.a1,B.Y,B.bO),B.y,a4,new A.a9(0,s,0,1/0),new A.d4(B.C2,a4,a4,a,a4,a4,B.aW),a4,a4,a4,a4,a4,a4,s),a4,a4)
 a0=a3.z===0
-if(a0)a1=a8?70:130
-else a1=a8?90:160
+if(a0)a1=a8?70:116
+else a1=a8?90:140
 a2=a3.x
 if(a2)a0=a4
 else a0=a0?a3.ga6t():a3.ga7b()
