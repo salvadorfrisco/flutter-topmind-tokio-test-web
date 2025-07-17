@@ -82786,39 +82786,39 @@ if(q==null)q=B.K
 s.pY(A.aEV(p,p,q,!0,p,new A.akl(this),o,p,p,r,B.z0,!0,t.z))},
 KC(a,b,c,d){var s=null,r=this.z===b,q=d?6:12,p=r?B.bQ:B.i
 return A.he(s,A.f5(s,A.bU(a,s,s,s,A.c3(s,s,p,s,r?B.hu:B.f,B.bQ,B.OF,1,s,s,s,c,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.y,s,s,s,s,s,s,new A.at(0,q,0,q),s,s,s),B.a2,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akb(this,b),s,s,s,s,s,s)},
-O(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.atW(a),i=j.b,h=i*0.5,g=A.mw(h,A.f5(k,k,B.y,k,k,B.ib,k,k,k,k,k,k,k),k,k,0,0,0,k),f=A.a38(u.W,j.fE(36,48,60),j.jm(110,140,180)),e=A.bU("Bem vindo!",k,k,k,A.c3(k,k,B.i,k,k,k,k,k,k,k,k,j.fD(18,20,24),k,k,B.aI,k,k,!0,k,k,k,k,k,k,k,k),k,k),d=j.Hu(12,20,28),c=t.D
-i=A.mw(k,A.eu(A.b([f,e,new A.c0(new A.at(d,4,d,4),A.bU("Aqui voc\xea gerencia seus seguros e de seus familiares em poucos cliques!",k,k,k,A.c3(k,k,B.i,k,k,k,k,k,k,k,k,j.fD(12,14,16),k,k,k,k,k,!0,k,k,k,k,k,k,k,k),B.ck,k),k)],c),B.a1,B.Y,B.al),k,k,0,0,i*0.06,k)
-d=A.f5(k,k,B.y,B.l,k,k,k,k,k,k,k,k,k)
-f=j.c
-e=f?10:16
-e=A.mw(0,A.kQ(B.bE,A.b([d,A.mw(e,A.eu(A.b([A.kI(A.b([A.a38("assets/images/logo_icone_tokio.png",j.fE(28,42,42),j.jm(28,42,42)),A.bF(k,k,j.jm(4,8,8)),A.eu(A.b([A.bU("tokio",k,k,k,A.c3(k,k,B.i,k,k,k,k,k,k,k,k,j.fD(13,18,18),k,k,B.aI,k,1,!0,k,k,k,k,k,k,k,k),k,k),A.bU("resolve",k,k,k,A.c3(k,k,B.Jn,k,k,k,k,k,k,k,k,j.fD(13,18,18),k,k,B.aI,k,1,!0,k,k,k,k,k,k,k,k),k,k)],c),B.bn,B.Y,B.al)],c),B.a1,B.cK,B.al),A.bF(k,j.fE(4,8,8),k),A.bU("Acesse atrav\xe9s das redes sociais",k,k,k,A.c3(k,k,B.i,k,k,k,k,k,k,k,k,j.fD(9,12,12),k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.bF(k,j.fE(4,8,8),k),B.Oc],c),B.a1,B.cK,B.al),k,k,0,0,k,k)],c),B.H,B.bX),h,k,0,0,k,k)
-d=j.a
-s=d*0.98
-d*=0.92
-r=j.jm(s,d,400)
-d=j.jm(s,d,400)
-s=A.fz(j.jm(10,14,16))
-q=j.Hu(12,20,28)
-p=j.fE(5,6,10)
-f=A.kI(A.b([l.KC("Entrar",0,j.fD(14,16,18),f),A.bF(k,k,j.jm(12,32,32)),l.KC("Cadastrar",1,j.fD(14,16,18),f)],c),B.a1,B.Y,B.al)
-o=j.fE(4,6,10)
-n=j.Hu(12,20,28)
-m=A.b([],c)
-if(l.z===1)B.b.V(m,A.b([A.aqG(l.r,k,"Nome",!1,new A.akn()),A.bF(k,j.fE(8,10,12),k)],c))
-m.push(A.aqG(l.e,A.b([$.aAM()],t.VS),"CPF",!1,l.gaeE()))
-m.push(A.bF(k,j.fE(8,10,12),k))
-m.push(A.aqG(l.f,k,"Senha",!0,l.gaeI()))
-m.push(A.bF(k,j.fE(10,14,16),k))
-m.push(A.kI(A.b([new A.wL(l.y,new A.ako(l),new A.bi(new A.akp(),t.b),new A.cE(A.fz(12),B.q),k),A.IZ(A.bU("Lembrar Sempre",k,k,k,A.c3(k,k,B.i,k,k,k,k,k,k,k,k,j.fD(11,13,14),k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)),new A.rF(1,B.mR,A.adY(A.bU("Esqueceu a senha?",k,k,k,A.c3(k,k,B.bQ,k,B.hu,k,k,k,k,k,k,j.fD(11,13,14),k,k,B.aI,k,k,!0,k,k,k,k,k,k,k,k),k,k),l.gad5(),k),k)],c),B.a1,B.Y,B.al))
-m.push(A.bF(k,j.fE(8,12,16),k))
-m=A.eu(m,B.a1,B.Y,B.bO)
-f=A.hN(A.f5(k,A.eu(A.b([new A.c0(new A.at(q,p,q,p),f,k),new A.c0(new A.at(n,o,n,o),new A.y5(m,B.i8,l.d),k)],c),B.a1,B.Y,B.bO),B.y,k,new A.a9(0,d,0,1/0),new A.d4(B.C4,k,k,s,k,k,B.aW),k,k,k,k,k,k,r),k,k)
-d=l.z===0?j.fE(80,110,130):j.fE(110,140,160)
-if(l.x)s=k
-else s=l.z===0?l.ga6x():l.ga7f()
-r=j.jm(38,44,52)
-q=j.fE(38,44,52)
-return A.ax7(k,k,A.kQ(B.bE,A.b([g,i,e,f,A.mw(k,A.hN(A.he(k,A.f5(k,l.x?new A.r3(2,k,k,k,new A.w9(B.i,t.ZU),k,k,k):A.hf(B.EM,B.i,k,j.fD(18,22,28)),B.y,k,k,B.A8,k,q,k,k,k,k,r),B.a2,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,s,k,k,k,k,k,k),k,k),k,k,0,0,h+d,k)],c),B.H,B.bX),B.IZ,k)}}
+O(a){var s,r,q,p,o,n=this,m=null,l=A.atW(a),k=l.b,j=k*0.5,i=A.mw(j,A.f5(m,m,B.y,m,m,B.ib,m,m,m,m,m,m,m),m,m,0,0,0,m),h=l.a,g=k>h,f=g?0.08:0.06,e=A.a38(u.W,l.fE(36,48,60),l.jm(110,140,180)),d=A.bU("Bem vindo!",m,m,m,A.c3(m,m,B.i,m,m,m,m,m,m,m,m,l.fD(18,20,24),m,m,B.aI,m,m,!0,m,m,m,m,m,m,m,m),m,m),c=l.Hu(12,20,28),b=t.D
+f=A.mw(m,A.eu(A.b([e,d,new A.c0(new A.at(c,4,c,4),A.bU("Aqui voc\xea gerencia seus seguros e de seus familiares em poucos cliques!",m,m,m,A.c3(m,m,B.i,m,m,m,m,m,m,m,m,l.fD(12,14,16),m,m,m,m,m,!0,m,m,m,m,m,m,m,m),B.ck,m),m)],b),B.a1,B.Y,B.al),m,m,0,0,k*f,m)
+k=A.f5(m,m,B.y,B.l,m,m,m,m,m,m,m,m,m)
+e=l.c
+d=e?14:16
+d=A.mw(0,A.kQ(B.bE,A.b([k,A.mw(d,A.eu(A.b([A.kI(A.b([A.a38("assets/images/logo_icone_tokio.png",l.fE(32,38,42),l.jm(32,38,42)),A.bF(m,m,l.jm(6,7,8)),A.eu(A.b([A.bU("tokio",m,m,m,A.c3(m,m,B.i,m,m,m,m,m,m,m,m,l.fD(14,16,18),m,m,B.aI,m,1,!0,m,m,m,m,m,m,m,m),m,m),A.bU("resolve",m,m,m,A.c3(m,m,B.Jn,m,m,m,m,m,m,m,m,l.fD(14,16,18),m,m,B.aI,m,1,!0,m,m,m,m,m,m,m,m),m,m)],b),B.bn,B.Y,B.al)],b),B.a1,B.cK,B.al),A.bF(m,l.fE(4,8,8),m),A.bU("Acesse atrav\xe9s das redes sociais",m,m,m,A.c3(m,m,B.i,m,m,m,m,m,m,m,m,l.fD(9,12,12),m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.bF(m,l.fE(4,8,8),m),B.Oc],b),B.a1,B.cK,B.al),m,m,0,0,m,m)],b),B.H,B.bX),j,m,0,0,m,m)
+k=h*0.98
+h*=0.92
+c=l.jm(k,h,400)
+h=l.jm(k,h,400)
+k=A.fz(l.jm(10,14,16))
+s=l.Hu(12,20,28)
+r=l.fE(5,6,10)
+e=A.kI(A.b([n.KC("Entrar",0,l.fD(14,16,18),e),A.bF(m,m,l.jm(12,32,32)),n.KC("Cadastrar",1,l.fD(14,16,18),e)],b),B.a1,B.Y,B.al)
+q=l.fE(4,6,10)
+p=l.Hu(12,20,28)
+o=A.b([],b)
+if(n.z===1)B.b.V(o,A.b([A.aqG(n.r,m,"Nome",!1,new A.akn()),A.bF(m,l.fE(8,10,12),m)],b))
+o.push(A.aqG(n.e,A.b([$.aAM()],t.VS),"CPF",!1,n.gaeE()))
+o.push(A.bF(m,l.fE(8,10,12),m))
+o.push(A.aqG(n.f,m,"Senha",!0,n.gaeI()))
+o.push(A.bF(m,l.fE(10,14,16),m))
+o.push(A.kI(A.b([new A.wL(n.y,new A.ako(n),new A.bi(new A.akp(),t.b),new A.cE(A.fz(12),B.q),m),A.IZ(A.bU("Lembrar Sempre",m,m,m,A.c3(m,m,B.i,m,m,m,m,m,m,m,m,l.fD(11,13,14),m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)),new A.rF(1,B.mR,A.adY(A.bU("Esqueceu a senha?",m,m,m,A.c3(m,m,B.bQ,m,B.hu,m,m,m,m,m,m,l.fD(11,13,14),m,m,B.aI,m,m,!0,m,m,m,m,m,m,m,m),m,m),n.gad5(),m),m)],b),B.a1,B.Y,B.al))
+o.push(A.bF(m,l.fE(8,12,16),m))
+o=A.eu(o,B.a1,B.Y,B.bO)
+k=A.hN(A.f5(m,A.eu(A.b([new A.c0(new A.at(s,r,s,r),e,m),new A.c0(new A.at(p,q,p,q),new A.y5(o,B.i8,n.d),m)],b),B.a1,B.Y,B.bO),B.y,m,new A.a9(0,h,0,1/0),new A.d4(B.C4,m,m,k,m,m,B.aW),m,m,m,m,m,m,c),m,m)
+if(n.z===0)h=l.fE(80,110,g?126:114)
+else h=l.fE(110,140,g?160:144)
+if(n.x)g=m
+else g=n.z===0?n.ga6x():n.ga7f()
+e=l.jm(38,44,52)
+c=l.fE(38,44,52)
+return A.ax7(m,m,A.kQ(B.bE,A.b([i,f,d,k,A.mw(m,A.hN(A.he(m,A.f5(m,n.x?new A.r3(2,m,m,m,new A.w9(B.i,t.ZU),m,m,m):A.hf(B.EM,B.i,m,l.fD(18,22,28)),B.y,m,m,B.A8,m,c,m,m,m,m,e),B.a2,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,g,m,m,m,m,m,m),m,m),m,m,0,0,j+h,m)],b),B.H,B.bX),B.IZ,m)}}
 A.aki.prototype={
 $0(){var s,r,q=this.a,p=this.b
 q.y=p
@@ -83003,7 +83003,7 @@ case"invalid-email":return"Email inv\xe1lido."
 case"user-disabled":return"Este usu\xe1rio foi desabilitado."
 case"too-many-requests":return"Muitas tentativas. Tente novamente mais tarde."
 case"operation-not-allowed":return"Opera\xe7\xe3o n\xe3o permitida."
-default:return"Erro de autentica\xe7\xe3o: "+A.k(a.b)}},
+default:return"Login ou senha inv\xe1lidos."}},
 A9(a){return this.any(a)},
 any(a){var s=0,r=A.D(t.H),q=1,p=[],o=this,n,m,l,k
 var $async$A9=A.z(function(b,c){if(b===1){p.push(c)
